@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning TypeScript a little bit...
 - 👨‍💻 All of my projects are available at [AbdullahAlmohsen.com](AbdullahAlmohsen.com)
 
-- 📄 Know about my experiences [CV](https://www.abdullahalmohsen.com/Assets/Abdullah%20Almohsen%20CV-F.pdf)
+- 📄 Know about my experiences [CV](https://www.abdullahalmohsen.com/Media/Abdullah%20Almohsen%20CV-F.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
